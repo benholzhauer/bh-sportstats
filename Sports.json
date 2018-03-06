@@ -1,0 +1,42 @@
+{
+  "sport": [
+  		{
+			"title": "College Football",
+			"results": {
+				
+			},
+			"searchterms": [
+
+			]
+		},
+		{
+  			"title": "Mens College Basketball",
+			"results": {
+				"Y2014": "2014UKMBB.json"
+			},
+			"searchterms": [
+				"Opponent",
+				"Date",
+				"WinorLose",
+				"Steals",
+				"Blocks",
+				"Points"
+
+			]
+		},
+		{
+			"title": "Womens College Volleyball",
+			"results": {
+				"Y2017": "2017UKVB.json",
+				"Y2016": "2016UKVB.json"
+			},
+			"searchterms": [
+				"Opponent",
+				"Date",
+				"WinorLose",
+				"Digs",
+				"Points"
+			]
+		}
+	]
+}

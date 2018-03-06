@@ -1,0 +1,76 @@
+{
+	"comments": [
+		"University of Kentucky",
+		"Women's Volleyball", 
+		"2017", 
+		"partial results" 
+	],
+	"games": [
+		{	"Opponent": "Arkansas_State", "Date": "8/25/17", "WinorLose": "W",
+			 "Digs": "33", "Points": "54.0"
+		},
+		{	"Opponent": "Utah", "Date": "8/25/17", "WinorLose": "W",
+			 "Digs": "62", "Points": "73.0"
+		},
+		{	"Opponent": "Cincinnati", "Date": "8/26/17", "WinorLose": "W",
+			 "Digs": "44", "Points": "56.0"
+		},
+		{	"Opponent": "Creighton", "Date": "9/01/17", "WinorLose": "L",
+			 "Digs": "42", "Points": "51.0"
+		},
+		{	"Opponent": "Northern_Iowa", "Date": "9/02/17", "WinorLose": "W",
+			 "Digs": "77", "Points": "86.0"
+		},
+		{	"Opponent": "USC", "Date": "9/02/17", "WinorLose": "W",
+			 "Digs": "47", "Points": "71.0"
+		},
+		{	"Opponent": "Kansas", "Date": "9/04/17", "WinorLose": "L",
+			 "Digs": "31", "Points": "45.0"
+		},
+		{	"Opponent": "Loyola_Chicago", "Date": "9/09/17", "WinorLose": "W",
+			 "Digs": "30", "Points": "60.5"
+		},
+		{	"Opponent": "Marquette", "Date": "9/10/17", "WinorLose": "W",
+			 "Digs": "57", "Points": "92.0"
+		},
+		{	"Opponent": "Louisville", "Date": "9/15/17", "WinorLose": "W",
+			 "Digs": "46", "Points": "50.0"
+		},
+		{	"Opponent": "KSU", "Date": "9/16/17", "WinorLose": "W",
+			 "Digs": "50", "Points": "76.0"
+		},
+		{	"Opponent": "MIZ", "Date": "9/20/17", "WinorLose": "W",
+			 "Digs": "49", "Points": "81.0"
+		},
+		{	"Opponent": "LSU", "Date": "9/24/17", "WinorLose": "W",
+			 "Digs": "32", "Points": "65.0"
+		},
+		{	"Opponent": "Mississippi_State", "Date": "10/01/17", "WinorLose": "W",
+			 "Digs": "38", "Points": "59.0"
+		},
+		{	"Opponent": "Alabama", "Date": "10/06/17", "WinorLose": "W",
+			 "Digs": "63", "Points": "78.0"
+		},
+		{	"Opponent": "Auburn", "Date": "10/08/17", "WinorLose": "W",
+			 "Digs": "69", "Points": "79.5"
+		},
+		{	"Opponent": "Texas_AM", "Date": "10/11/17", "WinorLose": "W",
+			 "Digs": "34", "Points": "53.0"
+		},
+		{	"Opponent": "Florida", "Date": "10/15/17", "WinorLose": "W",
+			 "Digs": "49", "Points": "72.0"
+		},
+		{	"Opponent": "Tennessee", "Date": "10/22/17", "WinorLose": "W",
+			 "Digs": "47", "Points": "66.0"
+		},
+		{	"Opponent": "LSU", "Date": "10/27/17", "WinorLose": "W",
+			 "Digs": "53", "Points": "80.0"
+		},
+		{	"Opponent": "Texas_AM", "Date": "10/29/17", "WinorLose": "W",
+			 "Digs": "30", "Points": "53.0"
+		},
+		{	"Opponent": "Florida", "Date": "11/01/17", "WinorLose": "L",
+			 "Digs": "36", "Points": "43.0"
+		}
+	]
+}

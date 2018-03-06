@@ -1,0 +1,210 @@
+ { 
+     "comments": [
+		"University of Kentucky",
+		"Men's Basketball",
+		"2014",
+		"Season results"
+	],
+	"games": [
+		{ "Opponent": "UNC_ASHEVILLE", "Date": "11/08/13", "WinorLose": "W",
+			"Fouls": "20", "Assists": "12",
+			"Turnovers": "7", "Blocks": "6", "Steals": "8",
+			"Points": "89", "YeartoDateAvg": "89.0"
+		},
+		{ "Opponent": "NORTHERN_KENTUCKY", "Date": "11/10/13", "WinorLose": "W",
+			"Fouls": "14", "Assists": "12",
+			"Turnovers": "12", "Blocks": "5", "Steals": "3",
+			"Points": "93", "YeartoDateAvg": "91.0"
+		},
+		{ "Opponent": "MICHIGAN_STATE", "Date": "11/12/13", "WinorLose": "L",
+			"Fouls": "19", "Assists": "8",
+			"Turnovers": "17", "Blocks": "6", "Steals": "1",
+			"Points": "74", "YeartoDateAvg": "85.3"
+		},
+		{ "Opponent": "ROBERT_MORRIS", "Date": "11/17/13", "WinorLose": "W",
+			"Fouls": "19", "Assists": "20",
+			"Turnovers": "15", "Blocks": "11", "Steals": "9",
+			"Points": "87", "YeartoDateAvg": "85.8"
+		},
+		{ "Opponent": "TEXAS-ARLINGTON", "Date": "11/19/13", "WinorLose": "W",
+			"Fouls": "21", "Assists": "18",
+			"Turnovers": "8", "Blocks": "8", "Steals": "7",
+			"Points": "105", "YeartoDateAvg": "89.6"
+		},
+		{ "Opponent": "CLEVELAND_STATE", "Date": "11/25/13", "WinorLose": "W",
+			"Fouls": "17", "Assists": "10",
+			"Turnovers": "11", "Blocks": "7", "Steals": "2",
+			"Points": "68", "YeartoDateAvg": "86.0"
+		},
+		{ "Opponent": "EASTERN_MICHIGAN", "Date": "11/27/13", "WinorLose": "W",
+			"Fouls": "17", "Assists": "11",
+			"Turnovers": "20", "Blocks": "9", "Steals": "3",
+			"Points": "81", "YeartoDateAvg": "85.3"
+		},
+		{ "Opponent": "Providence", "Date": "12/01/13", "WinorLose": "W",
+			"Fouls": "22", "Assists": "12",
+			"Turnovers": "14", "Blocks": "11", "Steals": "3",
+			"Points": "79", "YeartoDateAvg": "84.5"
+		},
+		{ "Opponent": "Baylor", "Date": "12/06/13", "WinorLose": "L",
+			"Fouls": "16", "Assists": "19",
+			"Turnovers": "9", "Blocks": "5", "Steals": "0",
+			"Points": "62", "YeartoDateAvg": "82.0"
+		},
+		{ "Opponent": "BOISE_STATE", "Date": "12/10/13", "WinorLose": "W",
+			"Fouls": "12", "Assists": "7",
+			"Turnovers": "19", "Blocks": "10", "Steals": "4",
+			"Points": "70", "YeartoDateAvg": "80.8"
+		},
+		{ "Opponent": "North_Carolina", "Date": "12/14/13", "WinorLose": "L",
+			"Fouls": "31", "Assists": "9",
+			"Turnovers": "17", "Blocks": "7", "Steals": "7",
+			"Points": "77", "YeartoDateAvg": "80.5"
+		},
+		{ "Opponent": "BELMONT", "Date": "12/21/13", "WinorLose": "W",
+			"Fouls": "17", "Assists": "14",
+			"Turnovers": "7", "Blocks": "4", "Steals": "2",
+			"Points": "93", "YeartoDateAvg": "81.5"
+		},
+		{ "Opponent": "LOUISVILLE", "Date": "12/28/13", "WinorLose": "W",
+			"Fouls": "19", "Assists": "8",
+			"Turnovers": "11", "Blocks": "4", "Steals": "3",
+			"Points": "73", "YeartoDateAvg": "80.8"
+		},
+		{ "Opponent": "MISSISSIPPI_STATE", "Date": "01/08/14", "WinorLose": "W",
+			"Fouls": "19", "Assists": "18",
+			"Turnovers": "12", "Blocks": "7", "Steals": "5",
+			"Points": "85", "YeartoDateAvg": "81.1"
+		},
+		{ "Opponent": "Vanderbilt", "Date": "01/11/14", "WinorLose": "W",
+			"Fouls": "12", "Assists": "11",
+			"Turnovers": "10", "Blocks": "2", "Steals": "7",
+			"Points": "71", "YeartoDateAvg": "80.5"
+		},
+		{ "Opponent": "Arkansas", "Date": "01/14/14", "WinorLose": "L",
+			"Fouls": "31", "Assists": "11",
+			"Turnovers": "17", "Blocks": "8", "Steals": "3",
+			"Points": "85", "YeartoDateAvg": "80.8"
+		},
+		{ "Opponent": "TENNESSEE", "Date": "01/18/14", "WinorLose": "W",
+			"Fouls": "17", "Assists": "11",
+			"Turnovers": "8", "Blocks": "4", "Steals": "6",
+			"Points": "74", "YeartoDateAvg": "80.4"
+		},
+		{ "Opponent": "TEXAS_A&M", "Date": "01/21/14", "WinorLose": "W",
+			"Fouls": "20", "Assists": "12",
+			"Turnovers": "15", "Blocks": "7", "Steals": "6",
+			"Points": "68", "YeartoDateAvg": "79.7"
+		},
+		{ "Opponent": "GEORGIA", "Date": "01/25/14", "WinorLose": "W",
+			"Fouls": "19", "Assists": "16",
+			"Turnovers": "11", "Blocks": "11", "Steals": "9",
+			"Points": "79", "YeartoDateAvg": "79.6"
+		},
+		{ "Opponent": "LSU", "Date": "01/28/14", "WinorLose": "L",
+			"Fouls": "19", "Assists": "8",
+			"Turnovers": "13", "Blocks": "4", "Steals": "6",
+			"Points": "82", "YeartoDateAvg": "79.8"
+		},
+		{ "Opponent": "Missouri", "Date": "02/01/14", "WinorLose": "W",
+			"Fouls": "23", "Assists": "11",
+			"Turnovers": "7", "Blocks": "4", "Steals": "5",
+			"Points": "84", "YeartoDateAvg": "80.0"
+		},
+		{ "Opponent": "OLE_MISS", "Date": "02/04/14", "WinorLose": "W",
+			"Fouls": "13", "Assists": "10",
+			"Turnovers": "10", "Blocks": "12", "Steals": "3",
+			"Points": "80", "YeartoDateAvg": "80.0"
+		},
+		{ "Opponent": "Mississippi_State", "Date": "02/08/14", "WinorLose": "W",
+			"Fouls": "21", "Assists": "12",
+			"Turnovers": "9", "Blocks": "5", "Steals": "7",
+			"Points": "69", "YeartoDateAvg": "79.5"
+		},
+		{ "Opponent": "Auburn", "Date": "02/12/14", "WinorLose": "W",
+			"Fouls": "18", "Assists": "7",
+			"Turnovers": "9", "Blocks": "3", "Steals": "6",
+			"Points": "64", "YeartoDateAvg": "78.8"
+		},
+		{ "Opponent": "FLORIDA", "Date": "02/15/14", "WinorLose": "L",
+			"Fouls": "17", "Assists": "11",
+			"Turnovers": "13", "Blocks": "3", "Steals": "2",
+			"Points": "59", "YeartoDateAvg": "78.0"
+		},
+		{ "Opponent": "Ole_Miss", "Date": "02/18/14", "WinorLose": "W",
+			"Fouls": "17", "Assists": "16",
+			"Turnovers": "19", "Blocks": "4", "Steals": "5",
+			"Points": "84", "YeartoDateAvg": "78.3"
+		},
+		{ "Opponent": "LSU", "Date": "02/22/14", "WinorLose": "W",
+			"Fouls": "15", "Assists": "5",
+			"Turnovers": "10", "Blocks": "8", "Steals": "4",
+			"Points": "77", "YeartoDateAvg": "78.2"
+		},
+		{ "Opponent": "ARKANSAS", "Date": "02/27/14", "WinorLose": "L",
+			"Fouls": "17", "Assists": "7",
+			"Turnovers": "18", "Blocks": "4", "Steals": "9",
+			"Points": "67", "YeartoDateAvg": "77.8"
+		},
+		{ "Opponent": "South_Carolina", "Date": "03/01/14", "WinorLose": "L",
+			"Fouls": "29", "Assists": "10",
+			"Turnovers": "10", "Blocks": "4", "Steals": "3",
+			"Points": "67", "YeartoDateAvg": "77.4"
+		},
+		{ "Opponent": "ALABAMA", "Date": "03/04/14", "WinorLose": "W",
+			"Fouls": "11", "Assists": "9",
+			"Turnovers": "12", "Blocks": "7", "Steals": "4",
+			"Points": "55", "YeartoDateAvg": "76.7"
+		},
+		{ "Opponent": "Florida", "Date": "03/08/14", "WinorLose": "L",
+			"Fouls": "22", "Assists": "10",
+			"Turnovers": "14", "Blocks": "1", "Steals": "7",
+			"Points": "65", "YeartoDateAvg": "76.3"
+		},
+		{ "Opponent": "LSU", "Date": "03/14/14", "WinorLose": "W",
+			"Fouls": "21", "Assists": "15",
+			"Turnovers": "9", "Blocks": "11", "Steals": "7",
+			"Points": "85", "YeartoDateAvg": "76.6"
+		},
+		{ "Opponent": "Georgia", "Date": "03/15/14", "WinorLose": "W",
+			"Fouls": "22", "Assists": "12",
+			"Turnovers": "10", "Blocks": "2", "Steals": "2",
+			"Points": "70", "YeartoDateAvg": "76.4"
+		},
+		{ "Opponent": "Florida", "Date": "03/16/14", "WinorLose": "L",
+			"Fouls": "19", "Assists": "9",
+			"Turnovers": "12", "Blocks": "8", "Steals": "4",
+			"Points": "60", "YeartoDateAvg": "75.9"
+		},
+		{ "Opponent": "Kansas_State", "Date": "03/21/14", "WinorLose": "W",
+			"Fouls": "11", "Assists": "8",
+			"Turnovers": "15", "Blocks": "7", "Steals": "4",
+			"Points": "56", "YeartoDateAvg": "75.3"
+		},
+		{ "Opponent": "Wichita_State", "Date": "03/23/14", "WinorLose": "W",
+			"Fouls": "15", "Assists": "11",
+			"Turnovers": "11", "Blocks": "3", "Steals": "6",
+			"Points": "78", "YeartoDateAvg": "75.4"
+		},
+		{ "Opponent": "Louisville", "Date": "03/28/14", "WinorLose": "W",
+			"Fouls": "19", "Assists": "8",
+			"Turnovers": "12", "Blocks": "2", "Steals": "5",
+			"Points": "74", "YeartoDateAvg": "75.4"
+		},
+		{ "Opponent": "Michigan", "Date": "03/30/14", "WinorLose": "W",
+			"Fouls": "14", "Assists": "8",
+			"Turnovers": "11", "Blocks": "6", "Steals": "2",
+			"Points": "75", "YeartoDateAvg": "75.4"
+		},
+		{ "Opponent": "WISCONSIN", "Date": "04/05/14", "WinorLose": "W",
+			"Fouls": "17", "Assists": "9",
+			"Turnovers": "4", "Blocks": "1", "Steals": "4",
+			"Points": "74", "YeartoDateAvg": "75.3"
+		},
+		{ "Opponent": "CONNECTICUT", "Date": "04/07/14", "WinorLose": "L",
+			"Fouls": "10", "Assists": "11",
+			"Turnovers": "13", "Blocks": "5", "Steals": "6",
+			"Points": "54", "YeartoDateAvg": "74.8"
+		}
+	]
+}
